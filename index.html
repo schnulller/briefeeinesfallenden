@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{% for post in paginator.posts %}
+{% if post.cover %}
+ 
+{% else %}
+<section>
+  <p>{{ post.content }}</p>
+</section>
+<hr>
+{% endif %}
+{% endfor %}
+
+{% if paginator.previous_page %}
+<a href='{{ site.url }}{{ paginator.previous_page_path }}'>Previous</a>
+{% endif %}
+
+{% if paginator.total_pages > 1 %}
+&mdash; {{ paginator.page }} of {{ paginator.total_pages }} &mdash;
+{% endif %}
+
+{% if paginator.next_page %}
+<a href='{{ site.url }}{{ paginator.next_page_path }}'>Next</a>
+{% endif %}
+
