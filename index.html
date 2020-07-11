@@ -3,14 +3,18 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-{% if post.cover %}
- 
-{% else %}
-<section>
-  <p>{{ post.content }}</p>
-</section>
-<hr>
-{% endif %}
+
+  {% if post.cover %}
+  <section class="image">
+  <img src='{{ site.url }}{{ post.cover }}'></img>
+  </section>
+  {% else %}
+  <section class="text">
+    <div class="text">
+      <p>{{ post.content }}</p>
+    </div>
+  </section>
+  {% endif %}
 {% endfor %}
 
 {% if paginator.previous_page %}
