@@ -1,0 +1,35 @@
+### Jekyll ###
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+Gemfile.lock
+
+
+### Gulp ###
+package.json
+/node_modules/
+
+
+### Atom ###
+.ftpconfig
+.sftpconfig
+
+
+### Compiled Source ###
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+
+### Compressed Packages ###
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
