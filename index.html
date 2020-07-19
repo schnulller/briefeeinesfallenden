@@ -3,7 +3,14 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-
+  {% if post.video %}
+  <section class="video">
+    <video autoplay loop muted>
+      <source src="./{{ post.video }}"
+            type="video/webm">
+    </video>
+  </section>
+  {% endif %}
   {% if post.cover %}
   <section class="image">
   <img src='./{{ post.cover }}'></img>

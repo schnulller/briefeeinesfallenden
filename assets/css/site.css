@@ -31,13 +31,17 @@ section.image img {
     width: 100% !important;
 }
 
+video {
+    width: 100% !important;
+}
+
 div.text {
     background-color: rgb(20, 20, 20);
     padding-top: 60px;
     padding-left: 80px;
     padding-right: 80px;
     padding-bottom: 60px;
-    font-size: 140%;
+    font-size: 108%;
 }
 
 footer {
