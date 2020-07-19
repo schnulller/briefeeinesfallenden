@@ -15,7 +15,8 @@ layout: default
   <section class="image">
   <img src='./{{ post.cover }}'></img>
   </section>
-  {% else %}
+  {% endif %}
+  {% if post.text %}
   <section class="text">
     <div class="text">
       <p>{{ post.content }}</p>
