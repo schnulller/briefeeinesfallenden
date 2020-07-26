@@ -11,6 +11,19 @@ layout: default
     </video>
   </section>
   {% endif %}
+  {% if post.embed %}
+  <section class="embed">
+    <embed
+    src="https://www.youtube.com/embed/{{ post.embed }}?autohide=1&controls=0"
+    wmode="transparent"
+    type="video/mp4"
+    width="100%" height="740px"
+    allow="autoplay; encrypted-media; picture-in-picture"
+    allowfullscreen
+    title="Keyboard Cat"
+  >
+  </section>
+  {% endif %}
   {% if post.cover %}
   <section class="image">
   <img src='./{{ post.cover }}'></img>
