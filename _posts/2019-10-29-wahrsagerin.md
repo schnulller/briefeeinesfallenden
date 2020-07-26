@@ -9,4 +9,4 @@ Als wir schließlich vor dem Haus ankamen, wollte ich es nicht betreten, denn ic
 
 Als sich die Hexenmeisterin J zuwandte, fiel sie ihr ungeschickt ins Wort, und bat mich, doch schon mal in den Flur zu gehen und zu warten. Wahrscheinlich hab ich Drinnen den vibe gekillt. Etwa eine halbe Stunde verbrachte ich vor der Haustür im Pissregen. Gut für mich, denn ich nutzte die Zeit, um Bier für uns zu organisieren. J war den ganzen restlichen Abend ganz vergnügt und lächelte schelmisch über meine Mutmaßungen.
 
-Später trafen wir noch H ganz in schwarz an der Feldstraße, der sich darüber beklagte, kein Money mehr für den Rest des Monats zu haben. Wir gaben ihm, was wir einstecken hatten. Zuhause zündete J aus Boshaftigkeit ein Räucherstäbchen an, was ich seitdem manchmal auch selber tue.
+Später trafen wir noch H ganz in schwarz an der Feldstraße, der darüber klagte, kein Money mehr für den Rest des Monats zu haben. Wir gaben ihm, was wir einstecken hatten. Zuhause zündete J aus Boshaftigkeit ein Räucherstäbchen an, was ich seit diesem Tag manchmal auch selbst tue.
